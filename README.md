@@ -1,11 +1,11 @@
 ## Brian Scott Work Examples
-All but the large files linked in the media section below are listed above. The reader is invited to peruse this content as the below summary is not exhaustive. At each GitHub link you will see a download button which can be helpful for viewing non-code multi-page documents.
+Below are explainers for some of the examples contained in the above list (scroll up just a bit). In addition to the below links the reader is invited to peruse this content as the below highlights are not exhaustive. At each GitHub link there is a download button in the ellipse in the upper right (which can be helpful for viewing multi-page documents).  
 
 ### Research, Analysis, Coding
 #### Some work examples from Schwab Asset Management (current employer)
 * Current quantitative research group owns multiple models that rate active funds. At the end of 2022 one of our model’s expected performance repeatedly appeared in our division’s annual business plan. [Since this report's](https://github.com/bscottwyoming/portfolio/blob/main/tableauFursPerfReport.pdf) distribution far exceeds my immediate team I took it upon myself to improve quality of monthly analysis/telemetry and publishing efficiency. This required more source code work than publishing work. This version is redacted to be above board in all matters IP. 
 * Here is [a sensitivity analysis writeup](https://github.com/bscottwyoming/portfolio/blob/main/Sensitivity%20analysis%20and%20outlier%20detec-TOR.pdf) conducted on one of our models. For the same model, [here is the monthly input validation report](https://github.com/bscottwyoming/portfolio/blob/main/inputValidationExample.pdf) as determined by Detec-TOR (total outlier removal) the outlier/anomaly module I was tasked to build. As determined by sensitivity testing, outlier scores that crossed certain thresholds are counted and collected and if enough scores cross a breadth threshold the process is paused for investigation. This version is redacted to be above board in all matters IP.
-* Risk/audit requested additional research for one of our models. [Here I explain their ask then conduct tests](https://github.com/bscottwyoming/portfolio/blob/main/marscleanversion.pdf). This version is redacted to be above board in all matters IP. 
+* Risk/audit requested additional research for one of our models. [Here I explain their ask then do some tests](https://github.com/bscottwyoming/portfolio/blob/main/marscleanversion.pdf). This version is redacted to be above board in all matters IP. 
 
 ### Asset Allocation
 #### Some highlights as senior investment analyst at state sovereign wealth fund
