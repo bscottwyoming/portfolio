@@ -1,6 +1,8 @@
 ## Brian Scott Work Examples
 Below are explainers for some of the examples contained in repo list. In addition to the below links the reader is invited to peruse this content as the below highlights are not exhaustive. At each GitHub link there is a download button in the ellipse in the upper right (which can be helpful for viewing multi-page documents).  
 
+#### Here is [an updated CV.](https://github.com/bscottwyoming/portfolio/blob/main/bscottcv_spring_2024.pdf)
+
 ### Research, Analysis, Coding
 #### Some work examples from Schwab Asset Management (current employer)
 * Current quantitative research group owns multiple models that rate active funds. At the end of 2022 one of our model’s expected performance repeatedly appeared in our division’s annual business plan. [Since the performance report's](https://github.com/bscottwyoming/portfolio/blob/main/tableauFursPerfReport.pdf) distribution far exceeded our immediate team I took it upon myself to improve the quality of monthly analysis/telemetry and publishing efficiency. This document had the furthest reach, was thus our primary speaking piece, and should be our most airtight presentation. This version is redacted to be above board in all matters IP. 
